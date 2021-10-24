@@ -2,15 +2,15 @@
 
 ## I'm a Husband, Father of 2, Airman, and a Developer
 
-- I'm currently serving in the USAF as an EAGLE (Logistics Consultant) for the Contingency Response Wing
-- I love coding and have been blessed with a lot of learning opportunities provided to me by the military
-- I am always on the lookout to try and solve user problems with coding and software development
-- Future goals: I want to be a better developer and contribute towards Open Source Projects
-- Fun fact about me: I like to play Final Fantasy 14 and I like to try and develop software tools that can be used in-conjuction with the game
+- I'm currently serving in the USAF as an EAGLE (Logistics Consultant) for the 621st Contingency Response Wing.
+- I love coding and have been blessed with a lot of learning opportunities provided to me by the military.
+- I am always on the lookout to try and solve user problems with software solutions.
+- Future goals: I want to be a better developer and contribute towards Open Source Projects.
+- Fun fact about me: I like to play Final Fantasy 14 and I like to try and develop software tools that can be used in-conjuction with the game.
 
 ### Social Media
 
-[<img align="left" alt="Abernachy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abernachy | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
@@ -24,16 +24,22 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="SharePoint" width="26px" src="https://cdn.icon-icons.com/icons2/2397/PNG/128/microsoft_sharepoint_logo_office_icon_145722.png" />
+
+
 
 <br />
 
 ---
 
-<img align="left" alt="Abernachy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abernachy&show_icons=true&hide_border=true" />
-<!--START_SECTION:activity -->
+<img align="left" alt="Abernachy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abernachy&theme=chartreuse-dark&show_icons=true&hide_border=true" />
+<!---START_SECTION: activity -->
+
+
+
 
 <br />
 
-[linkedin]: www.linkedin.com/in/michael-mason-aber
+[linkedin]: https://www.linkedin.com/in/michael-mason-aber/
