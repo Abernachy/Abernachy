@@ -30,4 +30,4 @@
 <br />
 <br />
 
-[linkedin]: www.linkedin.com/in/michael-mason-aber
+[linkedin]: https://www.linkedin.com/in/michael-mason-aber/
