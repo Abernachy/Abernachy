@@ -26,7 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="SharePoint" width="26px" src="https://simpleicons.org/icons/microsoftsharepoint.svg" />
+<img align="left" alt="SharePoint" width="26px" src="https://cdn.icon-icons.com/icons2/2397/PNG/128/microsoft_sharepoint_logo_office_icon_145722.png" />
 
 
 
