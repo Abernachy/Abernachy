@@ -36,7 +36,6 @@
 
 <img align="left" alt="Abernachy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abernachy&theme=chartreuse-dark&show_icons=true&hide_border=true" />
 
----
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
 
