@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Abernachy/ProShop/pull/16) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
-2. 💪 Opened PR [#16](https://github.com/Abernachy/ProShop/pull/16) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
-3. 🎉 Merged PR [#6](https://github.com/Abernachy/Abernachy/pull/6) in [Abernachy/Abernachy](https://github.com/Abernachy/Abernachy)
-4. 💪 Opened PR [#6](https://github.com/Abernachy/Abernachy/pull/6) in [Abernachy/Abernachy](https://github.com/Abernachy/Abernachy)
-5. 🎉 Merged PR [#5](https://github.com/Abernachy/Abernachy/pull/5) in [Abernachy/Abernachy](https://github.com/Abernachy/Abernachy)
+1. 🎉 Merged PR [#17](https://github.com/Abernachy/ProShop/pull/17) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
+2. 💪 Opened PR [#17](https://github.com/Abernachy/ProShop/pull/17) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
+3. 🎉 Merged PR [#16](https://github.com/Abernachy/ProShop/pull/16) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
+4. 💪 Opened PR [#16](https://github.com/Abernachy/ProShop/pull/16) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
+5. 🎉 Merged PR [#6](https://github.com/Abernachy/Abernachy/pull/6) in [Abernachy/Abernachy](https://github.com/Abernachy/Abernachy)
 <!--END_SECTION:activity-->
 
 
