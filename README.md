@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Abernachy/LearningFolder/pull/6) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-2. 💪 Opened PR [#6](https://github.com/Abernachy/LearningFolder/pull/6) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-3. 🎉 Merged PR [#23](https://github.com/Abernachy/ProShop/pull/23) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
-4. 💪 Opened PR [#23](https://github.com/Abernachy/ProShop/pull/23) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
-5. 🎉 Merged PR [#22](https://github.com/Abernachy/ProShop/pull/22) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
+1. 🎉 Merged PR [#1](https://github.com/Abernachy/FF14-WTFATP/pull/1) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+2. 💪 Opened PR [#1](https://github.com/Abernachy/FF14-WTFATP/pull/1) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+3. 🎉 Merged PR [#6](https://github.com/Abernachy/LearningFolder/pull/6) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+4. 💪 Opened PR [#6](https://github.com/Abernachy/LearningFolder/pull/6) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+5. 🎉 Merged PR [#23](https://github.com/Abernachy/ProShop/pull/23) in [Abernachy/ProShop](https://github.com/Abernachy/ProShop)
 <!--END_SECTION:activity-->
 
 
