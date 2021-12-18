@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/2) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-2. 💪 Opened PR [#2](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/2) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-3. 🎉 Merged PR [#1](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/1) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-4. 💪 Opened PR [#1](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/1) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-5. 🎉 Merged PR [#2](https://github.com/Abernachy/FF14-WTFATP/pull/2) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+1. 🎉 Merged PR [#3](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/3) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+2. 💪 Opened PR [#3](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/3) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+3. 🎉 Merged PR [#2](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/2) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+4. 💪 Opened PR [#2](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/2) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+5. 🎉 Merged PR [#1](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/1) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
 <!--END_SECTION:activity-->
 
 
