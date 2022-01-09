@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Abernachy/FF14-WTFATP/pull/3) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
-2. 💪 Opened PR [#3](https://github.com/Abernachy/FF14-WTFATP/pull/3) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
-3. 🎉 Merged PR [#4](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/4) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-4. 💪 Opened PR [#4](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/4) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-5. 🎉 Merged PR [#7](https://github.com/Abernachy/LearningFolder/pull/7) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+1. 🎉 Merged PR [#4](https://github.com/Abernachy/FF14-WTFATP/pull/4) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+2. 💪 Opened PR [#4](https://github.com/Abernachy/FF14-WTFATP/pull/4) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+3. 🎉 Merged PR [#3](https://github.com/Abernachy/FF14-WTFATP/pull/3) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+4. 💪 Opened PR [#3](https://github.com/Abernachy/FF14-WTFATP/pull/3) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
+5. 🎉 Merged PR [#4](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/4) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
 <!--END_SECTION:activity-->
 
 
