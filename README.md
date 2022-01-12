@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Abernachy/FF14-WTFATP/pull/4) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
-2. 💪 Opened PR [#4](https://github.com/Abernachy/FF14-WTFATP/pull/4) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
-3. 🎉 Merged PR [#3](https://github.com/Abernachy/FF14-WTFATP/pull/3) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
-4. 💪 Opened PR [#3](https://github.com/Abernachy/FF14-WTFATP/pull/3) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
-5. 🎉 Merged PR [#4](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/4) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+1. ❌ Closed PR [#6](https://github.com/jonasschmedtmann/html-css-course/pull/6) in [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)
+2. 🎉 Merged PR [#1](https://github.com/Aber-Learningforks/html-css-course/pull/1) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+3. 💪 Opened PR [#1](https://github.com/Aber-Learningforks/html-css-course/pull/1) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+4. 💪 Opened PR [#6](https://github.com/jonasschmedtmann/html-css-course/pull/6) in [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)
+5. 🎉 Merged PR [#4](https://github.com/Abernachy/FF14-WTFATP/pull/4) in [Abernachy/FF14-WTFATP](https://github.com/Abernachy/FF14-WTFATP)
 <!--END_SECTION:activity-->
 
 
