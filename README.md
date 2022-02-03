@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Aber-Learningforks/html-css-course/pull/10) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-2. 💪 Opened PR [#10](https://github.com/Aber-Learningforks/html-css-course/pull/10) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-3. 🎉 Merged PR [#9](https://github.com/Aber-Learningforks/html-css-course/pull/9) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-4. 💪 Opened PR [#9](https://github.com/Aber-Learningforks/html-css-course/pull/9) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-5. 💪 Opened PR [#8](https://github.com/jonasschmedtmann/html-css-course/pull/8) in [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)
+1. 🎉 Merged PR [#11](https://github.com/Aber-Learningforks/html-css-course/pull/11) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+2. 💪 Opened PR [#11](https://github.com/Aber-Learningforks/html-css-course/pull/11) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+3. 🎉 Merged PR [#10](https://github.com/Aber-Learningforks/html-css-course/pull/10) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+4. 💪 Opened PR [#10](https://github.com/Aber-Learningforks/html-css-course/pull/10) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+5. 🎉 Merged PR [#9](https://github.com/Aber-Learningforks/html-css-course/pull/9) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
 <!--END_SECTION:activity-->
 
 
