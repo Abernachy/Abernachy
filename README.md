@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Aber-Learningforks/html-css-course/pull/17) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-2. 🎉 Merged PR [#10](https://github.com/Abernachy/LearningFolder/pull/10) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-3. 💪 Opened PR [#10](https://github.com/Abernachy/LearningFolder/pull/10) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-4. 🎉 Merged PR [#9](https://github.com/Abernachy/LearningFolder/pull/9) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-5. 💪 Opened PR [#9](https://github.com/Abernachy/LearningFolder/pull/9) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+1. 🎉 Merged PR [#17](https://github.com/Aber-Learningforks/html-css-course/pull/17) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+2. 💪 Opened PR [#17](https://github.com/Aber-Learningforks/html-css-course/pull/17) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+3. 🎉 Merged PR [#10](https://github.com/Abernachy/LearningFolder/pull/10) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+4. 💪 Opened PR [#10](https://github.com/Abernachy/LearningFolder/pull/10) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+5. 🎉 Merged PR [#9](https://github.com/Abernachy/LearningFolder/pull/9) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
 <!--END_SECTION:activity-->
 
 
