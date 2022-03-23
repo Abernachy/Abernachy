@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Abernachy/LearningFolder/pull/16) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-2. 💪 Opened PR [#16](https://github.com/Abernachy/LearningFolder/pull/16) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-3. 🎉 Merged PR [#15](https://github.com/Abernachy/LearningFolder/pull/15) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-4. 💪 Opened PR [#15](https://github.com/Abernachy/LearningFolder/pull/15) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
-5. 🎉 Merged PR [#14](https://github.com/Abernachy/LearningFolder/pull/14) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+1. 🎉 Merged PR [#17](https://github.com/Abernachy/LearningFolder/pull/17) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+2. 💪 Opened PR [#17](https://github.com/Abernachy/LearningFolder/pull/17) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+3. 🎉 Merged PR [#16](https://github.com/Abernachy/LearningFolder/pull/16) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+4. 💪 Opened PR [#16](https://github.com/Abernachy/LearningFolder/pull/16) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
+5. 🎉 Merged PR [#15](https://github.com/Abernachy/LearningFolder/pull/15) in [Abernachy/LearningFolder](https://github.com/Abernachy/LearningFolder)
 <!--END_SECTION:activity-->
 
 
