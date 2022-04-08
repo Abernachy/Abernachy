@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/5) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-2. 💪 Opened PR [#5](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/5) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
-3. 🎉 Merged PR [#19](https://github.com/Aber-Learningforks/html-css-course/pull/19) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-4. 💪 Opened PR [#19](https://github.com/Aber-Learningforks/html-css-course/pull/19) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
-5. ❌ Closed PR [#10](https://github.com/jonasschmedtmann/html-css-course/pull/10) in [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course)
+1. ❗️ Opened issue [#382](https://github.com/udacity/cloud-developer/issues/382) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
+2. 🎉 Merged PR [#5](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/5) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+3. 💪 Opened PR [#5](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/5) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+4. 🎉 Merged PR [#19](https://github.com/Aber-Learningforks/html-css-course/pull/19) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
+5. 💪 Opened PR [#19](https://github.com/Aber-Learningforks/html-css-course/pull/19) in [Aber-Learningforks/html-css-course](https://github.com/Aber-Learningforks/html-css-course)
 <!--END_SECTION:activity-->
 
 
