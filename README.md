@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour/pull/21) in [USS-Endeavour/usaf-sdi-project-endeavour](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour)
-2. 💪 Opened PR [#384](https://github.com/udacity/cloud-developer/pull/384) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
-3. 💪 Opened PR [#383](https://github.com/udacity/cloud-developer/pull/383) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
-4. ❗️ Opened issue [#382](https://github.com/udacity/cloud-developer/issues/382) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
-5. 🎉 Merged PR [#5](https://github.com/Abernachy/Udacity-CloudDeveloper/pull/5) in [Abernachy/Udacity-CloudDeveloper](https://github.com/Abernachy/Udacity-CloudDeveloper)
+1. 🎉 Merged PR [#8](https://github.com/Abernachy/MSOS-Toolkit/pull/8) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+2. 💪 Opened PR [#8](https://github.com/Abernachy/MSOS-Toolkit/pull/8) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+3. ❌ Closed PR [#21](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour/pull/21) in [USS-Endeavour/usaf-sdi-project-endeavour](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour)
+4. 💪 Opened PR [#384](https://github.com/udacity/cloud-developer/pull/384) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
+5. 💪 Opened PR [#383](https://github.com/udacity/cloud-developer/pull/383) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
 <!--END_SECTION:activity-->
 
 
