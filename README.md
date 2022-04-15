@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Abernachy/MSOS-Toolkit/pull/8) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-2. 💪 Opened PR [#8](https://github.com/Abernachy/MSOS-Toolkit/pull/8) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-3. ❌ Closed PR [#21](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour/pull/21) in [USS-Endeavour/usaf-sdi-project-endeavour](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour)
-4. 💪 Opened PR [#384](https://github.com/udacity/cloud-developer/pull/384) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
-5. 💪 Opened PR [#383](https://github.com/udacity/cloud-developer/pull/383) in [udacity/cloud-developer](https://github.com/udacity/cloud-developer)
+1. 🎉 Merged PR [#9](https://github.com/Abernachy/MSOS-Toolkit/pull/9) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+2. 💪 Opened PR [#9](https://github.com/Abernachy/MSOS-Toolkit/pull/9) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+3. 🎉 Merged PR [#8](https://github.com/Abernachy/MSOS-Toolkit/pull/8) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+4. 💪 Opened PR [#8](https://github.com/Abernachy/MSOS-Toolkit/pull/8) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+5. ❌ Closed PR [#21](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour/pull/21) in [USS-Endeavour/usaf-sdi-project-endeavour](https://github.com/USS-Endeavour/usaf-sdi-project-endeavour)
 <!--END_SECTION:activity-->
 
 
