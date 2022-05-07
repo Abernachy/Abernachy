@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/iswandulla/stuff/pull/2) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
-2. 🎉 Merged PR [#1](https://github.com/Abernachy/stuff/pull/1) in [Abernachy/stuff](https://github.com/Abernachy/stuff)
-3. 💪 Opened PR [#1](https://github.com/Abernachy/stuff/pull/1) in [Abernachy/stuff](https://github.com/Abernachy/stuff)
-4. 🎉 Merged PR [#2](https://github.com/Abernachy/Test-Name/pull/2) in [Abernachy/Test-Name](https://github.com/Abernachy/Test-Name)
-5. 💪 Opened PR [#2](https://github.com/Abernachy/Test-Name/pull/2) in [Abernachy/Test-Name](https://github.com/Abernachy/Test-Name)
+1. ❌ Closed PR [#2](https://github.com/iswandulla/stuff/pull/2) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
+2. ❗️ Closed issue [#3](https://github.com/iswandulla/stuff/issues/3) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
+3. ❗️ Opened issue [#3](https://github.com/iswandulla/stuff/issues/3) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
+4. 💪 Opened PR [#2](https://github.com/iswandulla/stuff/pull/2) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
+5. 🎉 Merged PR [#1](https://github.com/Abernachy/stuff/pull/1) in [Abernachy/stuff](https://github.com/Abernachy/stuff)
 <!--END_SECTION:activity-->
 
 
