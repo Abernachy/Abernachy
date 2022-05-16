@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Abernachy/MSOS-Toolkit/pull/17) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-2. 💪 Opened PR [#17](https://github.com/Abernachy/MSOS-Toolkit/pull/17) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-3. ❌ Closed PR [#2](https://github.com/iswandulla/stuff/pull/2) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
-4. ❗️ Closed issue [#3](https://github.com/iswandulla/stuff/issues/3) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
-5. ❗️ Opened issue [#3](https://github.com/iswandulla/stuff/issues/3) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
+1. 🎉 Merged PR [#18](https://github.com/Abernachy/MSOS-Toolkit/pull/18) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+2. 💪 Opened PR [#18](https://github.com/Abernachy/MSOS-Toolkit/pull/18) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+3. 🎉 Merged PR [#17](https://github.com/Abernachy/MSOS-Toolkit/pull/17) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+4. 💪 Opened PR [#17](https://github.com/Abernachy/MSOS-Toolkit/pull/17) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+5. ❌ Closed PR [#2](https://github.com/iswandulla/stuff/pull/2) in [iswandulla/stuff](https://github.com/iswandulla/stuff)
 <!--END_SECTION:activity-->
 
 
