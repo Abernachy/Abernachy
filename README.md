@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Abernachy/MSOS-Toolkit/pull/20) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-2. 💪 Opened PR [#20](https://github.com/Abernachy/MSOS-Toolkit/pull/20) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-3. 🎉 Merged PR [#19](https://github.com/Abernachy/MSOS-Toolkit/pull/19) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-4. 💪 Opened PR [#19](https://github.com/Abernachy/MSOS-Toolkit/pull/19) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-5. 🎉 Merged PR [#18](https://github.com/Abernachy/MSOS-Toolkit/pull/18) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+1. 🎉 Merged PR [#21](https://github.com/Abernachy/MSOS-Toolkit/pull/21) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+2. 💪 Opened PR [#21](https://github.com/Abernachy/MSOS-Toolkit/pull/21) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+3. 🎉 Merged PR [#20](https://github.com/Abernachy/MSOS-Toolkit/pull/20) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+4. 💪 Opened PR [#20](https://github.com/Abernachy/MSOS-Toolkit/pull/20) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+5. 🎉 Merged PR [#19](https://github.com/Abernachy/MSOS-Toolkit/pull/19) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
 <!--END_SECTION:activity-->
 
 
