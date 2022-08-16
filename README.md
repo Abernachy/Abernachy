@@ -38,11 +38,11 @@
 
 ### ☣️ Recent Activity ☣️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/3) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-2. 💪 Opened PR [#3](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/3) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-3. 🎉 Merged PR [#29](https://github.com/Abernachy/MSOS-Toolkit/pull/29) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-4. 💪 Opened PR [#29](https://github.com/Abernachy/MSOS-Toolkit/pull/29) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
-5. 🎉 Merged PR [#28](https://github.com/Abernachy/MSOS-Toolkit/pull/28) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
+1. 🎉 Merged PR [#4](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/4) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
+2. 💪 Opened PR [#4](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/4) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
+3. 🎉 Merged PR [#3](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/3) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
+4. 💪 Opened PR [#3](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/3) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
+5. 🎉 Merged PR [#29](https://github.com/Abernachy/MSOS-Toolkit/pull/29) in [Abernachy/MSOS-Toolkit](https://github.com/Abernachy/MSOS-Toolkit)
 <!--END_SECTION:activity-->
 
 
