@@ -6,7 +6,7 @@
 - I love coding and have been blessed with a lot of learning opportunities provided to me by the military.
 - I am always on the lookout to try and solve user problems with software solutions.
 - Future goals: I want to be a better developer and contribute towards Open Source Projects.
-- Fun fact about me: I like to play Final Fantasy 14 and I like to try and develop software tools that can be used in-conjuction with the game.
+
 
 ### Social Media
 
