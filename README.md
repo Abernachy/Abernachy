@@ -27,22 +27,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SharePoint" width="26px" src="https://cdn.icon-icons.com/icons2/2397/PNG/128/microsoft_sharepoint_logo_office_icon_145722.png" />
+<img align="left" alt="Power Platform" width="26px" src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" />
 
 
 
 <br />
-
----
-
-
-### ☣️ Recent Activity ☣️
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/9) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-2. 💪 Opened PR [#9](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/9) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-3. 🎉 Merged PR [#8](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/8) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-4. 💪 Opened PR [#8](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/8) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-5. 🎉 Merged PR [#7](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS/pull/7) in [Abernachy/50-projects-50-days-html-css-vanJS](https://github.com/Abernachy/50-projects-50-days-html-css-vanJS)
-<!--END_SECTION:activity-->
 
 
 
